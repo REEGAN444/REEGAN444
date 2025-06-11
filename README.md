@@ -1,16 +1,32 @@
-## Hi there 👋
-
-<!--
-**REEGAN444/REEGAN444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there👋
+  This is the Computer Vision project using python with the opencv library and Haarcascade Algorithm 
+##Library and Algorithm💻
+  -The project needs python IDLE with the standard version of 3.9.6
+  -Install the following libarary using the "pip install -----" command in cmd
+  Libraries📚 :
+    -OpenCV
+    -Mediapipe(Handgesture)
+    -OS(inbuilt library to fetch the dataset)
+    -numpy
+  Algorithm📃:
+    -HaarcascadeFrontalFaceAlgorithm
+##Realtime example🌍:
+  -Face Locking System(mobile)
+  -Robotics(Handgesture)
+##Steps to run the FaceRecoginitionProject☺️:
+  -Open the program Named as facerecstore.py
+  -Enter the name at where the name 'AbdulKalam' is placed
+  -Run the program
+  -Now,the camera of your Computer is tracked and Scanning for the Face to Create the new DataSet
+  -When the face Recognized the camera.it take upto 50 images and save it to the folder named as Dataset
+  -After that open the program named as faceRecognition.py and run it
+  -it fetch the dataset by training and scanning for the face.when the face recognized.it label the face according to the dataset with their conflict value.
+  -the prediction is upto 85%.
+##Step to HandGesture Project🤚:
+  -open the program named as HandGesture.py
+  -run the program
+  -it recognize your hand and plot the point and join the edges.
+  -it the simple project to recognize your hand.if we need to do an addition operation.we can do it using this program
+  
+    
+    
