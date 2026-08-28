@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=200&section=header&text=IMMANUVEL%20REEGAN%20A&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=220&section=header&text=IMMANUVEL%20REEGAN%20A&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
   <!-- Interactive Badge Bar -->
   <p align="center">
@@ -28,15 +28,18 @@
 
 ---
 
-## ⚡ Interactive Navigation (Click to Expand)
+## ⚡ Interactive Profile Hub
 
 <details open>
-<summary><b>👤 Executive Summary & Quick Stats</b></summary>
+<summary><b>👤 Executive Profile & Academic Background</b></summary>
 <br/>
+
+Motivated **4th-Year B.Tech Information Technology Student** at **V.S.B. Engineering College** (2023–2027) with hands-on experience in full-stack software development, API design, AI/ML integration, and cloud computing. Proven ability to deliver end-to-end applications through industry internships and academic projects following Agile methodologies.
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ 🎓 Education : B.Tech IT @ V.S.B. Engineering College (CGPA: 7.79)          │
+│ 🎓 Education : B.Tech IT @ V.S.B. Engineering College (CGPA: 7.79 / 10)     │
+│ 🏫 High School: Computer Science @ P.A. Vidhya Bhavan Higher Sec School     │
 │ 💼 Internship: Java Full Stack Intern @ Infosys Springboard 6.0             │
 │ 🏆 Coding    : 300+ LeetCode Solved | TCS CodeVita Season 13 Rank 8437      │
 │ 🎯 Status    : Open for SDE / Backend / Full-Stack Engineer Opportunities │
