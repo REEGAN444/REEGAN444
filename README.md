@@ -1,46 +1,87 @@
 <div align="center">
 
-  <!-- Dynamic Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=220&section=header&text=IMMANUVEL%20REEGAN%20A&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+# ⚡ Immanuvel Reegan A
+### **Software Development Engineer (SDE) | Java Full-Stack & Cloud Specialist**
 
-  <!-- Interactive Badge Bar -->
-  <p align="center">
-    <a href="mailto:reeganrock81@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://leetcode.com">
-      <img src="https://img.shields.io/badge/LeetCode-300%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-    </a>
-    <a href="tel:9080266988">
-      <img src="https://img.shields.io/badge/Call-9080266988-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-    </a>
-  </p>
+[Email](mailto:reeganrock81@gmail.com) • [LinkedIn](https://linkedin.com) • [LeetCode (500+ Solved)](https://leetcode.com) • [Portfolio](https://reegan444.github.io)
 
-  <!-- Animated Typing SVG -->
-  <a href="https://github.com/REEGAN444">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Java+Full-Stack+%26+Cloud+Engineer;%E2%9A%A1+Infosys+Springboard+6.0+Intern;%F0%9F%8F%86+300%2B+LeetCode+Problems+Solved;%F0%9F%9A%80+TCS+CodeVita+Rank+8437" alt="Typing SVG" />
-  </a>
+---
+
+</div>
+
+## 📌 Executive Summary
+
+Final-year **Information Technology** undergraduate at **V.S.B. Engineering College** with hands-on experience building enterprise-grade microservices and AI-integrated web applications. 
+
+* **Problem Solving:** 500+ LeetCode problems solved; **TCS CodeVita Season 13 Rank 8437**.
+* **Enterprise Internship:** Engineered JWT-secured REST microservices and Spring AI integrations during **Infosys Springboard 6.0**.
+* **Core Focus:** High-concurrency backend development using Java, Spring Boot, PostgreSQL, MERN Stack, and AWS.
+
+---
+
+## 🛠️ Technical Capabilities
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Java (Core/Advanced), Python, JavaScript (ES6+), TypeScript, SQL |
+| **Backend & Microservices** | Spring Boot, Spring Security (JWT), Spring Data JPA, Hibernate, Express.js, Node.js, REST APIs |
+| **Frontend & Mobile** | React.js, Angular, HTML5, CSS3, Tailwind CSS, Java Swing/AWT |
+| **Databases & Storage** | PostgreSQL, MySQL, MongoDB |
+| **Cloud, DevOps & Tools** | AWS, Docker, Maven, Git/GitHub, Postman |
+| **Core CS Fundamentals** | Data Structures & Algorithms (DSA), System Design, OOP, Operating Systems, Computer Networks |
+
+---
+
+## 💼 Experience & Key Projects
+
+### 🏢 **Java Full-Stack Intern** | *Infosys Springboard 6.0* `(Oct 2025 – Dec 2025)`
+> Built modules for an enterprise **AI-Enabled Inventory Management System** using Spring Boot microservices and Angular.
+* **Security & Auth:** Implemented Role-Based Access Control (RBAC) and JWT authentication with **Spring Security**.
+* **Automation & AI:** Automated low-stock alerting workflows using **Spring Scheduler** and integrated **Spring AI** to deliver predictive restock recommendations.
+* **Data Layer:** Designed normalized entities and performant REST APIs leveraging **Spring Data JPA** and **PostgreSQL**.
+
+---
+
+### 🌾 **AI-Powered Agricultural Platform** | *Full-Stack & Deep Learning*
+> An end-to-end ecosystem combining AI disease prediction with direct farmer-to-market e-commerce.
+* **AI Diagnosis Module:** Integrated deep learning models to classify crop diseases directly from leaf image uploads.
+* **E-Commerce Portal:** Built a responsive MERN stack store complete with cart state management and secure checkout flows.
+* **Community Hub:** Developed real-time communication modules allowing farmers to seek peer and expert consultations.
+
+---
+
+### 💻 **Student Mark & Record Management System** | *Java Desktop App*
+> Desktop software for academic record lifecycle management and automated grade computation.
+* Architected using clean **MVC separation** with Java Swing/AWT front-end and **JDBC connectivity** to MySQL.
+* Enabled efficient CRUD operations on student profiles, attendance, and quarterly marks.
+
+---
+
+## 📜 Certifications & Achievements
+
+| Highlight | Issuer / Platform | Key Detail |
+| :--- | :--- | :--- |
+| **TCS CodeVita Season 13** | Tata Consultancy Services | **Global Rank 8437** |
+| **Programming in Java** | NPTEL / IIT Kharagpur | **Elite Certification (75%)** |
+| **Ethical Hacking** | NPTEL / IIT Kharagpur | **Elite Certification (63%)** |
+| **Cybersecurity Fundamentals** | Cisco Networking Academy | Certified |
+| **Java Full Stack Internship** | Infosys Springboard 6.0 | Completion & Assessment |
+
+---
+
+## 📊 Performance & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=REEGAN444&show_icons=true&theme=github_dark&rank_icon=percentile&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REEGAN444&layout=compact&theme=github_dark&hide=css,html" width="48%" />
 
 </div>
 
 ---
 
-## ⚡ Interactive Profile Hub
+<div align="center">
 
-<details open>
-<summary><b>👤 Executive Profile & Academic Background</b></summary>
-<br/>
+📫 **Open for SDE / Full-Stack Engineer roles:** [reeganrock81@gmail.com](mailto:reeganrock81@gmail.com) | +91 9080266988
 
-Motivated **4th-Year B.Tech Information Technology Student** at **V.S.B. Engineering College** (2023–2027) with hands-on experience in full-stack software development, API design, AI/ML integration, and cloud computing. Proven ability to deliver end-to-end applications through industry internships and academic projects following Agile methodologies.
-
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ 🎓 Education : B.Tech IT @ V.S.B. Engineering College (CGPA: 7.79 / 10)     │
-│ 🏫 High School: Computer Science @ P.A. Vidhya Bhavan Higher Sec School     │
-│ 💼 Internship: Java Full Stack Intern @ Infosys Springboard 6.0             │
-│ 🏆 Coding    : 300+ LeetCode Solved | TCS CodeVita Season 13 Rank 8437      │
-│ 🎯 Status    : Open for SDE / Backend / Full-Stack Engineer Opportunities │
-└─────────────────────────────────────────────────────────────────────────────┘
+</div>
