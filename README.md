@@ -1,55 +1,48 @@
 <div align="center">
 
-  <h1>⚡ IMMANUVEL REEGAN A</h1>
-  <h3><b>Software Development Engineer (SDE) | Java Full-Stack & Cloud Specialist</b></h3>
+# Hi 👋, I'm Immanuvel Reegan A
+### **Software Developer | Java & Spring Boot | Full-Stack Development | AI & Generative AI**
 
-  <!-- Reliable Shields.io Badges -->
-  <p align="center">
-    <a href="mailto:reeganrock81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-500%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-    <a href="https://reegan444.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00F5FF"/></a>
-  </p>
+`Karur, Tamil Nadu, India` • `+91 9080266988` • `reeganrock81@gmail.com`
+
+---
+
+<!-- High-Reliability Badges -->
+<p align="center">
+  <a href="https://my-portfolio-kappa-coral-12.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-500%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://github.com/REEGAN444" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:reeganrock81@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="tel:9080266988">
+    <img src="https://img.shields.io/badge/Call-9080266988-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-  <!-- Native HTML/CSS Metric Cards -->
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-orange?style=for-the-badge&logo=leetcode" /><br/>
-        <sub><b>Data Structures & Algorithms</b></sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/TCS%20CodeVita-Rank%208437-blue?style=for-the-badge&logo=tata" /><br/>
-        <sub><b>Global Coding Rank</b></sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Infosys%20Springboard-Full%20Stack%20Intern-green?style=for-the-badge&logo=infosys" /><br/>
-        <sub><b>Enterprise Experience</b></sub>
-      </td>
-    </tr>
-  </table>
+I'm a **B.Tech Information Technology** student at **V.S.B. Engineering College** (2023–2027) and aspiring Software Developer passionate about building practical, scalable applications using Java, Spring Boot, Full-Stack technologies, and AI.
 
-</div>
-
----
-
-## ⚡ Executive & Technical Overview
-
-<details open>
-<summary><b>📌 Executive Summary</b></summary>
-<br/>
-
-Final-year **Information Technology** undergraduate at **V.S.B. Engineering College** with hands-on experience building enterprise-grade microservices and AI-integrated web applications.
+I enjoy turning real-world problems into software solutions — from AI-powered inventory forecasting and plant disease detection to LLM integration, REST APIs, and full-stack web applications.
 
 ```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ 🧩 Problem Solving: 500+ LeetCode Solved | TCS CodeVita Season 13 Rank 8437  │
-│ 💼 Enterprise Exp: Engineered JWT-secured REST APIs @ Infosys Springboard    │
-│ 🎯 Core Focus    : High-concurrency backend (Java, Spring Boot, PostgreSQL) │
-└─────────────────────────────────────────────────────────────────────────────┘
+🎓 B.Tech Information Technology
+💻 Focused on Software Development & Backend Engineering
+☕ Strong interest in Java, Spring Boot & REST API Development
+🌐 Experience with Full-Stack Development
+🤖 Exploring Generative AI, Agentic AI & LLM Integration
+🗄️ Interested in Database Design, System Design & Backend Architecture
+🧩 Practicing Data Structures & Algorithms
+🚀 Interested in building production-oriented applications
+📚 Continuously learning new technologies and development practices
